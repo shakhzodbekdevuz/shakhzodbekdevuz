@@ -8,6 +8,6 @@
 - 💬 Ask me about Frontend or .Net
 - 📫 How to reach me: [Telegram: @Shahzod_Desktop_developer_csharp](https://t.me/@shakhz0duz)
 - 😄 Pronouns: He/Me
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- ⚡ Fun fact: I spend almost 25 hours listening songs everyday.
 .
 <img src="https://github-readme-stats.vercel.app/api?username=shakhzodbekdevuz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
