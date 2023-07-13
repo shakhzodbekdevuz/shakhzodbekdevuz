@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on YouTube
 - 🤔 I’m looking for help with Documentation
 - 💬 Ask me about Frontend or .Net
-- 📫 How to reach me: [Telegram: @Shahzod_Desktop_developer_csharp](https://t.me/@Shahzod_Desktop_developer_csharp)
+- 📫 How to reach me: [Telegram: @Shahzod_Desktop_developer_csharp](https://t.me/@shakhz0duz)
 - 😄 Pronouns: He/Me
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 .
